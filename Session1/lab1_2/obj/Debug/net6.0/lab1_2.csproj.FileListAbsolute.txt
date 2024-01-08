@@ -1,0 +1,15 @@
+E:\NET - review\Session1\lab1_2\bin\Debug\net6.0\lab1_2.exe
+E:\NET - review\Session1\lab1_2\bin\Debug\net6.0\lab1_2.deps.json
+E:\NET - review\Session1\lab1_2\bin\Debug\net6.0\lab1_2.runtimeconfig.json
+E:\NET - review\Session1\lab1_2\bin\Debug\net6.0\lab1_2.dll
+E:\NET - review\Session1\lab1_2\bin\Debug\net6.0\lab1_2.pdb
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.csproj.AssemblyReference.cache
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.AssemblyInfoInputs.cache
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.AssemblyInfo.cs
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.csproj.CoreCompileInputs.cache
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.dll
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\refint\lab1_2.dll
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.pdb
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\lab1_2.genruntimeconfig.cache
+E:\NET - review\Session1\lab1_2\obj\Debug\net6.0\ref\lab1_2.dll

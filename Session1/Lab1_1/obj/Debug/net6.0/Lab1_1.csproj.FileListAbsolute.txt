@@ -1,0 +1,15 @@
+E:\NET - review\Session1\Lab1_1\bin\Debug\net6.0\Lab1_1.exe
+E:\NET - review\Session1\Lab1_1\bin\Debug\net6.0\Lab1_1.deps.json
+E:\NET - review\Session1\Lab1_1\bin\Debug\net6.0\Lab1_1.runtimeconfig.json
+E:\NET - review\Session1\Lab1_1\bin\Debug\net6.0\Lab1_1.dll
+E:\NET - review\Session1\Lab1_1\bin\Debug\net6.0\Lab1_1.pdb
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.csproj.AssemblyReference.cache
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.AssemblyInfoInputs.cache
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.AssemblyInfo.cs
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.csproj.CoreCompileInputs.cache
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.dll
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\refint\Lab1_1.dll
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.pdb
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\Lab1_1.genruntimeconfig.cache
+E:\NET - review\Session1\Lab1_1\obj\Debug\net6.0\ref\Lab1_1.dll
